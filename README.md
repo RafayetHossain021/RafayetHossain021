@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**RafayetHossain021/RafayetHossain021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Rafayet](https://www.linkedin.com/in/md-rafayet-hossain-zanith-783a7b328/), a CSE student at AIUB based in Dhaka.
 
-Here are some ideas to get you started:
+I like building things for the web and digging into applied machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is PHP, MVC,.NET,C# ,JAVA ,HTML,CSS,DATABASE,Software Quality and Testing and MySQL. I also use Python and R for machine learning and data science.
+
+A lot of what's here started as a university project, but my favorite is [CareLink](https://github.com/RafayetHossain021/CareLink), an emergency ambulance and hospital booking system.
+
+If you want to talk code, ML, or a project idea, find me on [LinkedIn](https://www.linkedin.com/in/md-rafayet-hossain-zanith-783a7b328/) or email me at [rafayetzanith123@gmail.com](mailto:rafayetzanith123@gmail.com).
+
+- **Hobbies:** coding, gaming, photography, travelling
