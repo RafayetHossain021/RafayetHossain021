@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm [Rafayet](https://www.linkedin.com/in/md-rafayet-hossain-zanith-783a7b328/), a CSE student at AIUB based in Dhaka.
+I'm [Rafayet](https://www.linkedin.com/in/md-rafayet-hossain-zanith-783a7b328/), a CSE student at American International University based in Dhaka.
 
 I like building things for the web and digging into applied machine learning.
 
